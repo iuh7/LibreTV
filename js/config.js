@@ -168,10 +168,6 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
-    hg: {
-        api: 'www.avre06.com',
-        name: '黄瓜资源',
-        adult: true
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
